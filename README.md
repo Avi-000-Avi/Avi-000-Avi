@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Any Full stack Project
 - 🤔 I’m looking for help with ... Tensorflow
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...[Gmail](atoppo267@gmail.com) [LinkedIn](https://www.linkedin.com/in/avinash-toppo/)
+- 📫 How to reach me: ...[Gmail](atoppo267@gmail.com) 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
