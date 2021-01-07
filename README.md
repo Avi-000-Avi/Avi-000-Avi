@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Instagram Clone
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... ReactJS and NodeJs
 - 👯 I’m looking to collaborate on ... Any Full stack Project
 - 🤔 I’m looking for help with ... Tensorflow
