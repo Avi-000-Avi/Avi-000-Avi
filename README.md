@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... ________
+- 🔭 I’m currently working as a Backend Developer Intern in Zotalabs
 - 🌱 I’m currently learning ... ReactJS and NodeJs
 - 👯 I’m looking to collaborate on ... Any Full stack Project
 - 🤔 I’m looking for help with ... Tensorflow
