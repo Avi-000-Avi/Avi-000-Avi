@@ -13,10 +13,8 @@
 
 **🇮🇳 Bengaluru · Distributed systems by day · Agents & on-chain curiosity by night · Cinema in between**
 
-[![Mail](https://img.shields.io/badge/email-let's_talk-e8ff5a?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:toppo.avinash@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toppo-avinash/)
-[![X](https://img.shields.io/badge/@toppo__avinash-follow-0f0f0f?style=for-the-badge&logo=x&logoColor=white)](https://x.com/toppo__avinash)
-
+[![Mail](https://img.shields.io/badge/email-let's_talk-e8ff5a?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:atoppo267@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/toppo-avinash/](https://www.linkedin.com/in/avinash-toppo-7430aa184/))
 </div>
 
 ---
