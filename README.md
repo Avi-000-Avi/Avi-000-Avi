@@ -196,7 +196,7 @@ honesty over hype.
 
 Because reducing humans to job titles is dimensionality reduction that loses signal:
 
-- 📚 **763 books logged** — cinema theory to systems books to the occasional poetry that survives
+- 📚  **Library**: 700+ flagged, ~15 actually finished — the gap is the journey
 - 🎬 **Cinephile** with a Wong Kar-wai / Tarkovsky aesthetic — building short films with Higgsfield, *"The Drowned Library"* in flight
 - 🧘 **High-agency intentional living** — manifesto-writer, attention-fragment skeptic
 - 🏋️ **Fitness & nutrition** — Bengaluru meal plans, deliberate physical practice
